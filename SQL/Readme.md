@@ -1,7 +1,7 @@
 Proyecto SQL - Máster Data & Analytics
 
 Descripción
-Este proyecto consiste en la exploración y manipulación de una base de datos relacional PostgreSQL la cual llamamos "tiendaMaster, proporcionada por la plataforma PROMETEO. Se realizaron consultas SQL para practicar el manejo de datos, relaciones entre tablas, subconsultas, vistas y estructuras temporales, con el objetivo de entender y extraer información relevante para análisis de datos.
+Este proyecto consiste en la exploración y manipulación de una base de datos relacional PostgreSQL la cual llamamos "tiendaMaster", proporcionada por la plataforma PROMETEO. Se realizaron consultas SQL para practicar el manejo de datos, relaciones entre tablas, subconsultas, vistas y estructuras temporales, con el objetivo de entender y extraer información relevante para análisis de datos.
 
 Herramientas utilizadas
 1. DBeaver: Entorno gráfico para conectarse y gestionar la base de datos PostgreSQL.
