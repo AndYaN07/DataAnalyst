@@ -14,7 +14,7 @@ Pasos para la configuración y ejecución
 2. Descarga de la base de datos desde la plataforma PROMETEO.
 3. Creación de la base de datos con el nombre tiendaMaster en PostgreSQL.
 4. Ejecución del script SQL descargado para la creación de tablas y carga de datos.
-5. Análisis y diagramación del esquema de la base de datos mediante dbdiagram.io (https://dbdiagram.io/d/68618094f413ba350867889d) para comprensión profunda.
+5. Análisis y diagramación del esquema de la base de datos mediante [dbdiagram.io](https://dbdiagram.io/d/68618094f413ba350867889d) para comprensión profunda.
 6. Realización de consultas SQL para cubrir los requerimientos del proyecto, guardando cada consulta ordenadamente en el archivo "entrega.SQL".
 
 Contenidos y enfoque de las consultas
